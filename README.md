@@ -1,2 +1,3 @@
 # dndDiceRoller
-A simple project using HTML, CSS, and JavaScript to roll the standard set of dice for a DnD game.
+A simple project using HTML, CSS, and JavaScript to roll the standard set of dice for a DnD game. This first project was to test my JS skills in solving a real-life problem - not having your dice on you at all times. 
+My main struggle was with understanding where to use the "getElementByID("answer").innerHTML = roll" statement, specifically whether to place it inside or outside the diceRoll function. My next commit to this project will be to add celebratory CSS changes if a user hits a perfect 20, simplifying the JS by consolidating the invocations for each die, and adding more structure to the HTML.
