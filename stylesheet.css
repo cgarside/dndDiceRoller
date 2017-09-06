@@ -1,0 +1,24 @@
+/* CSS for DnD Dice Roller */
+html, body {
+	text-align: center;
+	margin: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+#title {
+	margin-bottom: 0;
+}
+
+#drumRoll {
+	font-style: italic;
+}
+
+#answer {
+	font-weight: bold;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
